@@ -20,7 +20,7 @@ The dataset consists of images of a wide variety of stairs. This dataset covers 
  
 
 **Sample Images**  
-
+![alt-text-2](sample_datasets/stairs(1).jpg "title-2") ![alt-text-2](sample_datasets/stairs(2).jpg "title-2") ![alt-text-2](sample_datasets/stairs(4).jpg "title-2") ![alt-text-2](sample_datasets/stairs(5).jpg "title-2") ![alt-text-2](sample_datasets/stairs(6).jpg "title-2") ![alt-text-2](sample_datasets/stairs(7).jpg "title-2") ![alt-text-2](sample_datasets/stairs(8).jpg "title-2") ![alt-text-2](sample_datasets/stairs(9).jpg "title-2") ![alt-text-2](sample_datasets/stairs(10).jpg "title-2") 
 
 # Datacluster Labs Datasets
 
